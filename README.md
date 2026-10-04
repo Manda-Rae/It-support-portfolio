@@ -25,9 +25,7 @@ disconnected and put back in their case. No sound from the phone speaker.
 **Root cause:** Most likely a corrupted or stale pairing record for the
 earbuds. Forgetting and re-pairing the device resolved it. Exact cause not confirmed.
 
-**How I verified it worked:** [e.g. played audio with earbuds in the
-case and confirmed it came from the phone speaker; reconnected the earbuds
-and confirmed audio switched back]
+**How I verified it worked:** played music with earbuds in case to confirm audio switchback. 
 
 **Prevention / notes:** If audio gets stuck again, check the audio output
 picker in Control Center first, then try Forget This Device before a restart.
