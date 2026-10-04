@@ -32,4 +32,4 @@ and confirmed audio switched back]
 **Prevention / notes:** If audio gets stuck again, check the audio output
 picker in Control Center first, then try Forget This Device before a restart.
 
-**Time to resolve:** [about X minutes]
+**Time to resolve:** 5-7 minutes
