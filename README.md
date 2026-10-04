@@ -5,6 +5,7 @@ I’m training for a help desk role and starting Broward College’s CompTIA A+,
 # Ticket 001: Audio stuck on Bluetooth earbuds after disconnecting
 
 **Device:** iPhone 15 Pro Max, iOS 26.6
+
 **Peripheral:** Kinglucky i121 wireless earbuds
 
 **Reported symptom:** Audio kept routing to the earbuds after they were
